@@ -1,0 +1,36 @@
+body {
+  margin: 0px;
+}
+
+.sitename {
+  padding-right: 10px;
+  padding-top: 5px;
+}
+
+article {
+  margin-left: 10%;
+  width: 80%;
+  margin-right: 10%;
+}
+
+h1 {
+  font-size: 46px;
+}
+
+.story_image {
+  width: 100%;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: Basier, Arial, sans-serif;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
