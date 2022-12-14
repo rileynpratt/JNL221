@@ -1,0 +1,32 @@
+body {
+	font-family: 'Vollkorn', serif; 
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 70rem; 
+	background-color: #F7F7FF;
+}
+
+p {
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: 'Vollkorn', serif;
+	color: #131112;
+}
+
+h1 {
+	font-family: 'Archivo Black', sans-serif;
+	color: #279AF1;
+	font-size: 100px;
+}
+
+h2 {
+	font-family: 'Archivo Black', sans-serif;
+	color: #C49991;
+	font-size: 35px;
+}
+
+h3 {
+	font-family: 'Vollkorn SC', serif;
+	color: #131112;
+	font-size: 20px;
+}
